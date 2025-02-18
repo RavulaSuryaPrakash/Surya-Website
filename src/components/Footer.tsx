@@ -1,16 +1,20 @@
-import React from "react";
-import GitHubIcon from '@mui/icons-material/GitHub';
-import LinkedInIcon from '@mui/icons-material/LinkedIn';
-import '../assets/styles/Footer.scss'
+// Updated footer with more social links
+import React from 'react';
+import '../assets/styles/Footer.scss';
 
 function Footer() {
   return (
-    <footer>
-      <div>
-        <a href="https://github.com/RavulaSuryaPrakash" target="_blank" rel="noreferrer"><GitHubIcon/></a>
-        <a href="https://www.linkedin.com/in/surya-ravula/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
+    <footer className='footer'>
+      <div className='footer-content'>
+        <div className='footer-links'>
+          <a href='https://github.com/RavulaSuryaPrakash' target='_blank' rel='noopener noreferrer'>GitHub</a>
+          <a href='https://linkedin.com/in/surya-ravula' target='_blank' rel='noopener noreferrer'>LinkedIn</a>
+          <a href='mailto:suryasanny001@gmail.com'>Email</a>
+        </div>
+        <div className='footer-text'>
+          <p>&copy; 2025 Surya Ravula. All rights reserved.</p>
+        </div>
       </div>
-      <p>A portfolio designed & built by <a href="https://github.com/RavulaSuryaPrakash/Surya-Website" target="_blank" rel="noreferrer">Surya Ravula</a> with 💜</p>
     </footer>
   );
 }
