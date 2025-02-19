@@ -1,6 +1,19 @@
-/* Responsive improvements */
-.main-container {
-  @media (max-width: 768px) {
-    padding: 20px;
+/* Enhanced dark mode styling */
+.dark-mode {
+  .main-container {
+    background: linear-gradient(135deg, #1a1a2e, #16213e);
+    color: #ffffff;
+  }
+  
+  .profile-image {
+    border: 3px solid #ffffff;
+    box-shadow: 0 8px 32px rgba(255, 255, 255, 0.2);
+  }
+  
+  .social-links a {
+    color: #ffffff;
+    &:hover {
+      color: #5000ca;
+    }
   }
 }
