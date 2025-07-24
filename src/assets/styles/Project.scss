@@ -15,9 +15,12 @@
     text-align: left;
 }
   
+.project h2 {
+  text-decoration: none;
+}
+
 .project h2:hover {
-    text-decoration: underline;
-    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+  text-decoration: none;
 }
   
 .zoom {
@@ -28,6 +31,16 @@
   
 .zoom:hover {
     transform: scale(1.05);
+}
+
+.project-github-icon svg {
+  color: #fff;
+  font-size: 1.2em;
+  vertical-align: middle;
+  transition: color 0.2s;
+}
+.project-github-icon:hover svg {
+  color: #5000ca;
 }
 
 @media screen {

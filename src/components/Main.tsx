@@ -23,7 +23,7 @@ function Main({ mode }: MainProps) {
             <a href="https://www.linkedin.com/in/surya-ravula/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
           <h1>Surya Ravula</h1>
-          <p>Full Stack Engineer</p>
+          <p>Full Stack Software Engineer</p>
 
           <div className="mobile_social_icons">
             <a href="https://github.com/RavulaSuryaPrakash" target="_blank" rel="noreferrer"><GitHubIcon/></a>
