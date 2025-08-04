@@ -6,14 +6,14 @@ import Chip from '@mui/material/Chip';
 import '../assets/styles/Expertise.scss';
 
 const labelsFirst = [
+    "Java",
+    "Go",
+    "Python",
+    "SpringBoot",
     "React",
     "TypeScript",
     "JavaScript",
-    "HTML5",
-    "CSS3",
     "SASS",
-    "Flask",
-    "Python",
     "SQL",
     "PostgreSQL",
     "Postman"
@@ -49,8 +49,8 @@ function Expertise() {
             <div className="skills-grid">
                 <div className="skill">
                     <FontAwesomeIcon icon={faReact} size="3x"/>
-                    <h3>Full Stack Web Development</h3>
-                    <p>I have built a diverse array of web applications from scratch using modern technologies such as React and Flask. I have a strong proficiency in the SDLC process and frontend + backend development.</p>
+                    <h3>Full Stack Software Engineer</h3>
+                    <p>I have built a diverse array of applications from scratch using modern technologies such as React and SpringBoot. I have a strong proficiency in the SDLC process and frontend + backend development.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsFirst.map((label, index) => (

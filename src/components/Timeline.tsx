@@ -13,6 +13,18 @@ function Timeline() {
         <h1>Career History</h1>
         <VerticalTimeline>
           <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            date="2025 - Present"
+            iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
+            icon={<FontAwesomeIcon icon={faBriefcase} />}
+          >
+            <h3 className="vertical-timeline-element-title">Student Ambassador</h3>
+            <h4 className="vertical-timeline-element-subtitle">Adobe</h4>
+            <p>
+              Student Advocacy, Community Building, Product Promotion, Event Organization
+            </p>
+          </VerticalTimelineElement>
+          <VerticalTimelineElement
             className="vertical-timeline-element--education"
             date="2024 -2026"
             iconStyle={{ background: '#5000ca', color: 'white' }}
@@ -52,7 +64,7 @@ function Timeline() {
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2022 -2022"
+            date="2021 -2021"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
@@ -71,7 +83,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Bachelor's in Computer Science</h3>
             <h4 className="vertical-timeline-element-subtitle">Bharath University</h4>
             <p>
-              Computer Science Fundamentals, Computer Networks, Data Structures, Algorithms
+              Computer Science Fundamentals, Computer Networks, Data Structures & Algorithms
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>
