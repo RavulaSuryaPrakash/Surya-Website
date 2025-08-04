@@ -47,7 +47,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Software Engineer</h3>
             <h4 className="vertical-timeline-element-subtitle">Accenture</h4>
             <p>
-              
+              Decoupling of services, Automating CI/CD pipelines, AI-powered solutions, and cloud-native applications.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement

@@ -16,7 +16,13 @@ const labelsFirst = [
     "SASS",
     "SQL",
     "PostgreSQL",
-    "Postman"
+    "Postman",
+    "kafka",
+    "RabbitMQ",
+    "Redis",
+    "MongoDB",
+
+    
 ];
 
 const labelsSecond = [
@@ -26,19 +32,26 @@ const labelsSecond = [
     "AWS",
     "Azure",
     "Linux",
-    "Snowflake",
     "Pandas",
     "Selenium",
+    "Prometheus",
+    "Grafana",
+    "Kubernetes",
+    "Terraform",
+    "Jenkins",
 ];
 
 const labelsThird = [
     "OpenAI",
+    "SpringAI",
     "Groq",
-    "LangChain",
     "Qdrant",
     "Hugging Face",
+    "Gemini",
     "LlamaIndex",
     "Streamlit",
+    "LangChain4j",
+    "LangGraphAI",
 ];
 
 function Expertise() {
