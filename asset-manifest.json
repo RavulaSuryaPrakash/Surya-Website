@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Surya-Website/static/css/main.965a0d7e.css",
+    "main.js": "/Surya-Website/static/js/main.363ae622.js",
+    "static/js/453.b05d8aa5.chunk.js": "/Surya-Website/static/js/453.b05d8aa5.chunk.js",
+    "static/media/mock10.png": "/Surya-Website/static/media/mock10.2d05b02ba569a430a255.png",
+    "static/media/mock04.png": "/Surya-Website/static/media/mock04.f7b5679efade992a078c.png",
+    "static/media/bg-light.png": "/Surya-Website/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/mock06.png": "/Surya-Website/static/media/mock06.5fed5f4f1b2f5e506f0f.png",
+    "static/media/mock62.png": "/Surya-Website/static/media/mock62.476ebf5e5972fa5c1dee.png",
+    "static/media/bg-dark.png": "/Surya-Website/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/mock07.png": "/Surya-Website/static/media/mock07.e66ed07ca717e60b8b25.png",
+    "static/media/mock01.png": "/Surya-Website/static/media/mock01.61bd486a54bf6e17ee5a.png",
+    "static/media/mock51.png": "/Surya-Website/static/media/mock51.b549acb2fc1d92f6e4a8.png",
+    "static/media/mock05.png": "/Surya-Website/static/media/mock05.b660208b373f37a020d7.png",
+    "static/media/mock61.png": "/Surya-Website/static/media/mock61.0bb47c2f60030afaf119.png",
+    "static/media/mock09.png": "/Surya-Website/static/media/mock09.dd54bd3fe52e6cd149b3.png",
+    "static/media/mock53.png": "/Surya-Website/static/media/mock53.562cae0f3e56ff8cb911.png",
+    "static/media/mock52.png": "/Surya-Website/static/media/mock52.a65780d8f7e5bfd0066e.png",
+    "static/media/mock08.png": "/Surya-Website/static/media/mock08.542ad5590f0e3177988d.png",
+    "static/media/mock02.png": "/Surya-Website/static/media/mock02.bced48ae9cdda3acf1a3.png",
+    "static/media/mock55.png": "/Surya-Website/static/media/mock55.3704c83abd36d5f20e3a.png",
+    "static/media/mock03.png": "/Surya-Website/static/media/mock03.a4600719e0b5d2a3155b.png",
+    "static/media/SuryaPic.jpg": "/Surya-Website/static/media/SuryaPic.33f25ff0f31c4992bc67.jpg",
+    "index.html": "/Surya-Website/index.html",
+    "main.965a0d7e.css.map": "/Surya-Website/static/css/main.965a0d7e.css.map",
+    "main.363ae622.js.map": "/Surya-Website/static/js/main.363ae622.js.map",
+    "453.b05d8aa5.chunk.js.map": "/Surya-Website/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.965a0d7e.css",
+    "static/js/main.363ae622.js"
+  ]
+}
